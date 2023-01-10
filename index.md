@@ -1,13 +1,14 @@
 ---
 title: Syllabus
 layout: home
+nav_order: 0
 ---
 
-# Class Name - Year
+# Intro to Web Development - Winter 2023
 {: .no_toc }
 
 Welcome to Class Name! My name is Joe Collard and I am so excited to be your
-instructor this **Fall/Winter/Spring**!   This website will be your landing page
+instructor this **Winter**! This website will be your landing page
 for instructions for the majority of the activities you will complete throughout
 the course. One of the largest benefits of this site is the ability to use the
 **Search** feature located at the top of each page which searches the entirety
@@ -24,8 +25,8 @@ of this site.
 
 ## Classroom Expectations
 
-* Class will begin promptly at XXX. If you are going to be late, you should
-  message me prior to class.
+* Class will begin promptly at 2:30 PM Pacific Time. If you are going to be
+  late, you should message me prior to class.
 * During class, you should have your camera on at all times. If you leave your
   computer, you should leave your camera on so I know that you are not currently
   hearing me. (If you need to step away, that is fine just let me know in the chat).
@@ -49,9 +50,12 @@ The first 5 minutes of most classes will begin with a **Question of the Day**.
 Your responses will be submitted via [Google Classroom]. There is no reason to
 prepare for these questions ahead of time. In general, these are designed to get
 your brain juices flowing, practice your written communication skills, and
-prepare you for the class discussion. **Note**: You are expected to write 3 - 5
-well thought out sentences. During this time, you should do your best to remain
-quiet and allow your peers to write their answers.
+prepare you for the class discussion. 
+
+{: .note }
+You are expected to write 3 - 5 well thought out sentences. During this time,
+you should do your best to remain quiet and allow your peers to write their
+answers.
 
 ### 2. Discussion (5 minutes)
 
@@ -104,17 +108,17 @@ Additionally, during this time, you are encouraged to post questions to the
 
 Learning a skill takes daily practice! On most days, you will not be assigned
 homework to complete. Instead, outside of this class you are expected to
-complete **N** minutes of work per week practicing skills related to **CLASS
-TOPIC**. In general, this can be **ANYTHING** related to the class.
+complete at least **30** minutes of work per week practicing skills related to
+**Web Development**. In general, this can be **ANYTHING** related to the class.
 
 {: .note } 
 If you have not completed a class activity that is currently assigned, your time
 should **first** be spent finishing that activity. Then, if you have time
 remaining, you should spend that time working to further your skills.
 
-To help track your progress throughout the term, you will maintain and keep
-a **Developer Log**. Each time you work on furthering your skills related to
-**CLASS TOPIC**, you should create a "Sign-on" entry. Then, when you have finished
+To help track your progress throughout the term, you will maintain and keep a
+**Developer Log**. Each time you work on furthering your skills related to **Web
+Development**, you should create a "Sign-on" entry. Then, when you have finished
 working, you should create a "Sign-of" entry.
 
 ### Sign-on Entry
@@ -129,7 +133,7 @@ To help focus your efforts during a working session, you will create a
      reach and often result in poor outcomes.
    * Bad goals: "Study", "Find a YouTube video", "Write code"
    * Good goals:
-     * Study how to write loops and write at least 3 different loops  
+     * Study how to write loops in JavaScript and write at least 3 different loops  
      * Watch and code along to Bracky's YouTube video on if statements. (https://youtube.com/some-link)
      * Add 2 new locations to my Adventure Quest project: A dungeon cell and a hallway.
 3. After completing the first 2 steps, you should write down the date and time.
