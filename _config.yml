@@ -1,0 +1,19 @@
+title: Class Name - Year
+description: Welcome to Class Name - Year
+theme: just-the-docs
+
+url: https://jcollard.github.io/repo-name
+
+# aux_links:
+#   Google Classroom: https://classroom.google.com/
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: note
+    color: yellow
+  tip:
+    title: tip
+    color: blue
